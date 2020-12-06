@@ -1,0 +1,8 @@
+**/logs
+**/AWE
+**/.vscode
+*.h5
+**/results
+**/results-lr
+**/results-lr-es
+**/resultsold
