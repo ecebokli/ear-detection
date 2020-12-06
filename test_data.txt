@@ -1,0 +1,250 @@
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0001.png 370,100,394,139,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0002.png 316,91,334,130,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0003.png 82,134,142,198,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0004.png 308,99,372,164,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0005.png 188,128,205,194,0 326,97,359,174,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0006.png 189,50,212,118,0 301,35,312,102,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0007.png 88,111,131,159,0 336,94,354,145,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0008.png 255,54,300,151,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0009.png 261,88,269,134,0 343,86,361,136,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0010.png 313,169,354,268,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0011.png 37,90,79,178,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0012.png 352,156,374,224,0 137,128,172,222,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0013.png 114,103,148,156,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0014.png 116,53,143,83,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0015.png 106,134,145,162,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0016.png 222,93,263,152,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0017.png 82,116,127,170,0 354,113,401,169,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0018.png 347,123,384,224,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0019.png 53,130,106,189,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0020.png 185,157,230,226,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0021.png 170,144,198,216,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0022.png 163,50,184,77,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0023.png 399,120,434,171,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0024.png 93,130,134,209,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0025.png 148,95,176,158,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0026.png 102,153,143,221,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0027.png 258,111,294,175,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0028.png 66,113,127,205,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0029.png 78,152,143,189,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0030.png 177,146,207,207,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0031.png 382,109,419,183,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0032.png 186,69,209,115,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0033.png 145,129,176,198,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0034.png 322,85,362,122,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0035.png 83,163,126,229,0 277,109,287,169,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0036.png 120,199,150,265,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0037.png 341,103,394,156,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0038.png 323,124,362,175,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0039.png 302,151,335,204,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0040.png 293,124,310,184,0 153,110,181,174,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0041.png 415,131,449,184,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0042.png 131,104,161,150,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0043.png 92,98,145,176,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0044.png 242,186,279,257,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0045.png 277,142,297,226,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0046.png 287,99,302,133,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0047.png 277,106,316,195,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0048.png 48,151,97,239,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0049.png 281,116,303,168,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0050.png 331,72,343,93,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0051.png 132,175,175,247,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0052.png 299,59,335,91,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0053.png 137,119,171,158,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0054.png 137,58,152,109,0 248,47,265,99,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0055.png 350,120,374,195,0 191,110,200,186,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0056.png 355,154,408,238,0 88,126,108,213,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0057.png 128,119,160,155,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0058.png 339,87,432,174,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0059.png 137,114,166,178,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0060.png 138,109,184,195,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0061.png 71,176,147,244,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0062.png 278,86,324,120,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0063.png 339,111,398,162,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0064.png 170,141,195,193,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0065.png 314,128,344,171,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0066.png 303,72,332,179,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0067.png 193,164,215,220,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0068.png 323,88,343,135,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0069.png 120,128,152,185,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0070.png 255,90,275,124,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0071.png 68,146,117,251,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0072.png 317,84,353,139,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0073.png 268,113,287,149,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0074.png 54,164,120,263,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0075.png 278,113,312,146,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0076.png 203,145,231,245,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0077.png 111,94,147,144,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0078.png 82,113,122,179,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0079.png 397,149,439,231,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0080.png 9,66,68,203,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0081.png 185,120,232,230,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0082.png 120,57,152,88,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0083.png 180,103,198,138,0 277,73,291,113,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0084.png 129,114,158,185,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0085.png 352,98,408,167,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0086.png 257,103,293,176,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0087.png 96,103,121,184,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0088.png 65,62,101,132,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0089.png 115,62,145,140,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0090.png 371,137,407,191,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0091.png 250,103,270,144,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0092.png 347,152,394,258,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0093.png 156,89,186,133,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0094.png 306,85,339,167,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0095.png 102,129,142,200,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0096.png 167,54,207,129,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0097.png 368,92,398,140,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0098.png 268,110,284,154,0 152,103,178,150,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0099.png 129,112,163,179,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0100.png 368,112,421,181,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0101.png 303,114,351,172,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0102.png 58,155,95,228,0 194,91,221,171,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0103.png 59,78,81,123,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0104.png 73,104,89,128,0 302,64,317,90,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0105.png 242,103,268,153,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0106.png 311,105,333,148,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0107.png 330,68,348,109,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0108.png 141,86,169,137,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0109.png 78,120,135,170,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0110.png 339,102,356,142,0 149,99,182,144,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0111.png 374,131,400,189,0 67,130,124,205,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0112.png 338,112,383,180,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0113.png 258,81,273,122,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0114.png 358,90,371,116,0 158,71,178,103,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0115.png 164,72,188,124,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0116.png 325,54,348,82,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0117.png 160,117,191,184,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0118.png 87,134,130,192,0 354,125,390,185,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0119.png 322,106,364,161,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0120.png 143,123,180,201,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0121.png 57,117,101,207,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0122.png 334,131,370,217,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0123.png 369,86,395,130,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0124.png 55,77,95,190,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0125.png 412,115,475,191,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0126.png 51,122,82,181,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0127.png 18,77,73,226,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0128.png 336,132,370,210,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0129.png 306,118,339,176,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0130.png 59,147,126,246,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0131.png 61,146,107,231,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0132.png 428,126,460,181,0 51,122,92,187,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0133.png 130,140,163,234,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0134.png 265,76,292,140,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0135.png 383,122,449,199,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0136.png 391,103,442,182,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0137.png 120,166,177,248,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0138.png 312,108,369,160,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0139.png 382,110,408,155,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0140.png 95,118,146,166,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0141.png 92,112,149,162,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0142.png 53,117,102,194,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0143.png 276,109,302,179,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0144.png 316,103,349,164,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0145.png 162,74,199,156,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0146.png 124,125,151,205,0 254,118,265,191,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0147.png 178,83,208,142,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0148.png 348,176,404,250,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0149.png 277,151,330,224,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0150.png 311,108,365,197,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0151.png 395,89,426,171,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0152.png 91,80,121,129,0 293,72,305,121,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0153.png 205,117,226,192,0 323,12,358,84,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0154.png 82,71,124,107,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0155.png 203,122,229,198,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0156.png 372,102,396,167,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0157.png 42,136,118,210,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0158.png 138,149,167,217,0 292,128,309,196,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0159.png 329,135,378,229,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0160.png 67,108,117,224,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0161.png 84,112,133,169,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0162.png 110,129,142,186,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0163.png 81,154,144,228,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0164.png 302,146,356,237,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0165.png 361,101,442,210,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0166.png 120,102,140,148,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0167.png 400,68,437,197,0 35,32,82,163,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0168.png 259,98,291,151,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0169.png 110,142,147,227,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0170.png 51,156,130,226,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0171.png 180,114,198,205,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0172.png 413,109,448,211,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0173.png 258,120,274,201,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0174.png 98,125,147,178,0 328,98,346,139,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0175.png 382,103,408,155,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0176.png 159,85,191,128,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0177.png 276,75,315,111,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0178.png 340,142,400,203,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0179.png 291,135,340,181,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0180.png 429,80,476,176,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0181.png 307,91,339,149,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0182.png 103,168,130,233,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0183.png 69,105,120,173,0 338,104,353,170,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0184.png 312,103,350,164,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0185.png 116,88,147,126,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0186.png 36,165,87,255,0 364,156,437,250,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0187.png 277,76,312,117,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0188.png 340,87,377,155,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0189.png 381,126,436,208,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0190.png 269,117,290,189,0 131,113,152,184,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0191.png 285,105,308,176,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0192.png 205,75,244,112,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0193.png 161,140,173,191,0 286,138,306,194,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0194.png 133,112,195,164,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0195.png 152,83,199,122,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0196.png 178,58,200,79,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0197.png 255,77,277,113,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0198.png 359,119,419,178,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0199.png 165,109,194,168,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0200.png 332,148,366,202,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0201.png 288,117,313,180,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0202.png 296,121,343,207,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0203.png 19,165,86,247,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0204.png 139,146,166,204,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0205.png 112,84,146,131,0 325,82,339,126,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0206.png 189,171,204,239,0 378,129,407,219,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0207.png 283,93,312,150,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0208.png 235,152,298,209,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0209.png 251,136,292,194,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0210.png 52,142,128,211,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0211.png 129,73,170,102,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0212.png 306,157,397,201,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0213.png 371,96,436,174,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0214.png 81,124,119,194,0 304,93,335,178,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0215.png 88,105,143,142,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0216.png 445,161,471,217,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0217.png 121,159,151,240,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0218.png 382,91,423,184,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0219.png 376,162,399,199,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0220.png 22,66,86,188,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0221.png 35,167,85,245,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0222.png 360,181,395,236,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0223.png 376,145,421,232,0 63,128,113,221,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0224.png 45,108,113,203,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0225.png 304,88,330,128,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0226.png 300,76,313,117,0 165,72,186,110,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0227.png 276,127,299,188,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0228.png 32,68,74,209,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0229.png 376,67,402,101,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0230.png 185,165,205,210,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0231.png 357,59,410,208,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0232.png 65,105,94,147,0 303,70,323,119,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0233.png 2,64,69,181,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0234.png 43,140,97,197,0 341,135,363,190,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0235.png 326,68,349,106,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0236.png 232,125,253,163,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0237.png 157,79,182,114,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0238.png 158,101,187,152,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0239.png 26,122,62,165,0 269,105,299,151,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0240.png 91,105,125,177,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0241.png 400,125,442,220,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0242.png 250,92,268,154,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0243.png 258,84,276,122,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0244.png 133,102,162,167,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0245.png 375,98,421,142,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0246.png 100,157,130,220,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0247.png 148,97,178,153,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0248.png 356,110,375,159,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0249.png 377,145,426,225,0
+D:\Faks\2.letnik\SB\Assignment2\AWE\test\0250.png 250,113,267,158,0
