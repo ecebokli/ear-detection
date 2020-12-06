@@ -35,7 +35,7 @@ sess = tf.Session(config=config)
 
 classes_path = 'classes.txt'
 anchors_path = 'model_data/yolo_anchors.txt'
-model_path = 'model_data/yolo_final.h5'
+model_path = 'model_data/yolo.h5'
 class_names = get_classes(classes_path)
 
 num_classes = len(class_names)
