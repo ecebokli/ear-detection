@@ -19,5 +19,7 @@ prepare_data_yolo.py - used for preparing the dataset for training the model.
 
 train.py - used for training the model.
 
+detect.py - used for detecting images. Will save images in results-images folder.
+
 eval.py - used for evaluating the model on the test dataset in AWE.
 
