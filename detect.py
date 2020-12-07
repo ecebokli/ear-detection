@@ -235,6 +235,7 @@ def detect_image(image):
     return image, best_boxes, best_scores
 
 def main():
+    # testing on train set because of mixup
     test_path = 'D:\\Faks\\2.letnik\\SB\\Assignment_2\\AWE\\train\\'
     annot_path = 'AWE\\trainannot_rect\\'
     count = 1   
