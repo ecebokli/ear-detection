@@ -3,7 +3,7 @@ Ear detection assignment for the Image-based Biometry course
 
 Credits: https://github.com/roboflow-ai/keras-yolo3
 
-Code tested on Windows 10.
+Code tested on Windows 10, Python version 3.7.7.
 
 Dataset used: AWE
 
