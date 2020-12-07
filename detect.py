@@ -278,14 +278,14 @@ def main():
             #IOUs.append(0)
             #best_scores.append(0)
         # write image
-        #cv2.imwrite("results\\" + img_name + ".png", img)
+        cv2.imwrite("results-images\\" + img_name + ".png", img)
         count += 1
         
     print(IOUs)
-    with open('eval-results\\yolo-iou.npy', 'wb') as f:
+    with open('eval-results\\yolo-lr-es-iou.npy', 'wb') as f:
         np.save(f, IOUs)
     print(best_scores)
-    with open('eval-results\\yolo-scores.npy', 'wb') as f:
+    with open('eval-results\\yolo--lr-es-scores.npy', 'wb') as f:
         np.save(f, IOUs)
     print("Average:", np.average(IOUs))
     print("Ground truth num:", np.sum(gts))
