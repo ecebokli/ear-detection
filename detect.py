@@ -76,36 +76,39 @@ boxes, scores, classes = yolo_eval(yolo_model.output, anchors,
 
 def gt_boxes(annot_path, file_name):
     boxes = []
-    for filename in os.listdir(annot_path):
-        img = cv2.imread(os.path.join(annot_path,filename))
+    #for filename in os.listdir(annot_path):
+    img = cv2.imread(os.path.join(annot_path,file_name))
+    
+    if img is not None:
+        img_boxes = []
+        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+        edges = cv2.Canny(img, 254, 255)
+        contours, hier = cv2.findContours(edges, cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)
         
-        if img is not None:
-            img_boxes = []
-            gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-            edges = cv2.Canny(img, 254, 255)
-            contours, hier = cv2.findContours(edges, cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)
-            
-            h, w = gray.shape
-            for c in contours:
-                rect = cv2.minAreaRect(c)
-                box = cv2.boxPoints(rect)
-                Xs = [i[0] for i in box]
-                Ys = [i[1] for i in box]
-                x1 = min(Xs)
-                x2 = max(Xs)
-                y1 = min(Ys)
-                y2 = max(Ys)
-                img_boxes.append([y1,x1,y2,x2])
-        boxes.append(img_boxes)
-    return boxes
+        h, w = gray.shape
+        for c in contours:
+            rect = cv2.minAreaRect(c)
+            box = cv2.boxPoints(rect)
+            Xs = [i[0] for i in box]
+            Ys = [i[1] for i in box]
+            x1 = min(Xs)
+            x2 = max(Xs)
+            y1 = min(Ys)
+            y2 = max(Ys)
+            img_boxes.append([y1,x1,y2,x2])
+    
+    return img_boxes
 
 def eval(boxes1, boxes2):
-    if(boxes1 == []):
+    if (boxes1 == []):
         return []
+    if (boxes2 == []):
+        if (boxes1 != []):
+            return np.zeros((1, len(boxes1)))
     IOUs = []
-    for box1 in boxes2:
+    for box1 in boxes1:
         bestIOU = 0
-        for box2 in boxes1:
+        for box2 in boxes2:
             ratio = iou_fun(box1, box2)
             if ratio > bestIOU:
                 bestIOU = ratio
@@ -198,8 +201,12 @@ def detect_image(image):
     #     all_boxes.append(np.array(box))
     #     score = out_scores[i]
     #     all_scores.append(np.array(score))
-    best_boxes = out_boxes
-    best_scores = out_scores
+    if(len(out_boxes)) == 0:
+        best_boxes = []
+        best_scores = []
+    else:
+        best_boxes = out_boxes
+        best_scores = out_scores
     # Apply non-maxiumum suppression if IOU of bounding boxes is > 0.2
     #best_boxes, best_scores = non_max_suppression(all_boxes,all_scores,0.2)
     for i, c in reversed(list(enumerate(out_classes))):
@@ -228,11 +235,13 @@ def detect_image(image):
     return image, best_boxes, best_scores
 
 def main():
-    test_path = 'D:\\Faks\\2.letnik\\SB\\Assignment_2\\AWE\\test\\'
-    annot_path = 'AWE\\testannot_rect\\'
+    test_path = 'D:\\Faks\\2.letnik\\SB\\Assignment_2\\AWE\\train\\'
+    annot_path = 'AWE\\trainannot_rect\\'
     count = 1   
     IOUs = []
     best_scores = []
+    gts = []
+    
     for filename in os.listdir(test_path):
         img = Image.open(os.path.join(test_path,filename))
         if img.mode == 'L':
@@ -245,8 +254,9 @@ def main():
         img_name = str(count).zfill(4)
 
         # get ground truth bounding boxes
-        boxes2 = gt_boxes(annot_path, img_name)
-        ratios = eval(boxes, boxes2[count-1])
+        boxes2 = gt_boxes(annot_path, img_name + ".png")
+        gts.append(len(boxes2))
+        ratios = eval(boxes, boxes2)
         if len(ratios) > 1:
             prntratio = ""            
             for r in ratios:
@@ -263,12 +273,21 @@ def main():
                 IOUs.append(ratios[0])
                 best_scores.append(scores[0])
                 print("ratio: ", ratios[0])
+        if len(ratios) < len(boxes2):
+            num_zeros = len(boxes2) - len(ratios)
+            #IOUs.append(0)
+            #best_scores.append(0)
         # write image
         #cv2.imwrite("results\\" + img_name + ".png", img)
         count += 1
         
     print(IOUs)
+    with open('eval-results\\yolo-iou.npy', 'wb') as f:
+        np.save(f, IOUs)
     print(best_scores)
+    with open('eval-results\\yolo-scores.npy', 'wb') as f:
+        np.save(f, IOUs)
     print("Average:", np.average(IOUs))
+    print("Ground truth num:", np.sum(gts))
 if __name__ == '__main__':
     main()
