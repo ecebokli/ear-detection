@@ -10,7 +10,7 @@ Dataset used: AWE
 Dataset folder should be located in the main folder.
 
 
-Weights for model: https://drive.google.com/file/d/1JAoiA7uF3kG5xZSijN1mbwiNSs2x06ai/view?usp=sharing
+Weights for model: https://drive.google.com/file/d/1ISe2gP4hj3vBxDHm4fiqZculz3wWu8ZQ/view?usp=sharing
 
 Weights should be located in model_data folder.
 
